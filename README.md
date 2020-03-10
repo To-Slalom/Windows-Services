@@ -7,7 +7,7 @@ and they slow down the boot up process; however, some are useful so thats why I 
 
 ## Usage
 *  1 Setp run services_conf_backup.vbs to creat a backup just in case some went wrong
-*  2 then run Services.vbs to disable Unnecessary Windows Services
+*  2 Step run Services.vbs to disable Unnecessary Windows Services
 
 
 ```
