@@ -8,4 +8,8 @@ Today’s post is about removing some of the useless services.
 Services are kind of like startup programs, they are usually not necessary, they slow down your computer,
 and they slow down the boot up process; however, some are useful so thats why I have made a list of ones to get rid of.
 
-1 Setp run config to creat a backup just in case some went wrong then run services.vbs to disable Unnecessary Windows Services
+## Usage
+
+## 1 Setp run services_conf_backup.vbs to creat a backup just in case some went wrong
+
+## 2 then run Services.vbs to disable Unnecessary Windows Services
